@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.AssemblyInfo.cs
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\TarjetaFachada\bin\Debug\net6.0\TarjetaFachada.exe
+C:\Users\USer\source\repos\TarjetaFachada\bin\Debug\net6.0\TarjetaFachada.deps.json
+C:\Users\USer\source\repos\TarjetaFachada\bin\Debug\net6.0\TarjetaFachada.runtimeconfig.json
+C:\Users\USer\source\repos\TarjetaFachada\bin\Debug\net6.0\TarjetaFachada.dll
+C:\Users\USer\source\repos\TarjetaFachada\bin\Debug\net6.0\TarjetaFachada.pdb
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.dll
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\refint\TarjetaFachada.dll
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.pdb
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\TarjetaFachada.genruntimeconfig.cache
+C:\Users\USer\source\repos\TarjetaFachada\obj\Debug\net6.0\ref\TarjetaFachada.dll
